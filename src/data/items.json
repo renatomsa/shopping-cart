@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Bola de Futebol",
+    "price": 130.99,
+    "imgUrl": "/imgs/bola.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Computador",
+    "price": 3325.69,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Carteira de Couro",
+    "price": 77.99,
+    "imgUrl": "/imgs/carteira.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Foguete de Brinquedo",
+    "price": 289.99,
+    "imgUrl": "/imgs/foguete.jpg"
+  },
+  {
+  "id": 5,
+  "name": "Experimentos de Química",
+  "price": 119.59,
+  "imgUrl": "/imgs/lab.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Luva de Boxe 16oz",
+    "price": 189.99,
+    "imgUrl": "/imgs/luva.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Microfone Omnidirecional",
+    "price": 320.99,
+    "imgUrl": "/imgs/mic.jpg"
+  }
+]
